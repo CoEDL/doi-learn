@@ -1,2 +1,2 @@
 # doi-learn
-Sample repo for publishing DOI
+Sample repository for publishing DOI
